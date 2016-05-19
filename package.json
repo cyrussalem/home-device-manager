@@ -1,0 +1,25 @@
+{
+  "name": "home-device-manager",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrussalem/home-device-manager.git"
+  },
+  "author": "Cyrus Salem",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cyrussalem/home-device-manager/issues"
+  },
+  "homepage": "https://github.com/cyrussalem/home-device-manager#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
